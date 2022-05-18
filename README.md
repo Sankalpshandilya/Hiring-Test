@@ -10,8 +10,7 @@ Apart from it I have **also added a Signin Screen**.
 For UI I have used react-native-element.
 
 
-
-![WhatsApp Image 2022-05-18 at 9 57 01 PM](https://user-images.githubusercontent.com/79198069/169094053-d0ead35e-27d0-4357-86c0-eae7915f9982.jpeg)
-![WhatsApp Image 2022-05-18 at 9 51 41 PM](https://user-images.githubusercontent.com/79198069/169094062-d357955d-dec5-4406-8f0a-806547436d4b.jpeg)
-![WhatsApp Image 2022-05-18 at 9 51 42 PM](https://user-images.githubusercontent.com/79198069/169094066-7659d6be-261e-4da3-8491-6b9bd1e706f5.jpeg)
-![WhatsApp Image 2022-05-18 at 9 51 43 PM](https://user-images.githubusercontent.com/79198069/169094077-a1e8cff4-9d45-4790-9723-29f4809af248.jpeg)
+<img src="https://user-images.githubusercontent.com/79198069/169094062-d357955d-dec5-4406-8f0a-806547436d4b.jpeg" height="700" width="300" >
+<img src="https://user-images.githubusercontent.com/79198069/169094066-7659d6be-261e-4da3-8491-6b9bd1e706f5.jpeg" height="700" width="300" >
+<img src="https://user-images.githubusercontent.com/79198069/169094077-a1e8cff4-9d45-4790-9723-29f4809af248.jpeg" height="700" width="300" >
+<img src="https://user-images.githubusercontent.com/79198069/169094544-860ab7b1-ab2d-4c2f-9f59-351df489ae9e.jpeg" height="700" width="300" >
